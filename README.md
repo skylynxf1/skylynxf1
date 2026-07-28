@@ -6,62 +6,6 @@
 
 </div>
 
----
-
-## currently
-
-🏆 **4× Hackathon Winner**
-🤖 Building with **AI, APIs & questionable amounts of matcha**
-🧠 Certified **Claude Code Maxxer™**
-🎓 **UW Informatics**
-
-I like building weird, ambitious things at the intersection of AI, product, accessibility, robotics, and whatever I decided to learn that weekend.
-
----
-
-## featured projects
-
-### 🤖 Simbiote
-
-**Local-first robotics training through digital twins + human demonstration**
-
-Built for the NVIDIA × Dell Hackathon — **1st Place**.
-
-`NVIDIA Isaac Sim` `Isaac Lab` `Nemotron` `Digital Twins` `Teleoperation`
-
-→ Human demonstrations become robot actions and training trajectories inside simulated environments.
-
----
-
-### ✈️ Raasta
-
-**AI-native navigation for accessibility-dependent airport travelers**
-
-Multilingual voice navigation, personalized routing, agent memory, visual perception, and accessibility-aware assistance.
-
-`Next.js` `FastAPI` `LangGraph` `Gemini` `MongoDB` `Google Cloud`
-
----
-
-### 📚 Marginalia
-
-**Turn research papers into explorable evidence networks**
-
-Maps claims, evidence, citations, concepts, and relationships across academic papers while keeping everything connected to the original source.
-
-`OpenAI` `Ollama` `Next.js` `Python` `PDF Parsing` `Knowledge Graphs`
-
----
-
-### 💄 mUA
-
-**A beauty assistant designed around your features — not one-size-fits-all beauty standards**
-
-Face-aware recommendations, techniques, product discovery, and community-centered beauty guidance.
-
-`Swift` `Xcode` `Computer Vision` `AI`
-
----
 
 ## things i build with
 
