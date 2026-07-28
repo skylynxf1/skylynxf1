@@ -1,39 +1,70 @@
-# hi, i'm sky 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=2500\&pause=900\&center=true\&vCenter=true\&width=750\&lines=4%C3%97+Hackathon+Winner+%F0%9F%8F%86;Claude+Code+Maxxer;Building+with+AI%2C+APIs+%26+questionable+amounts+of+matcha;UW+Informatics)](https://git.io/typing-svg)
+<img src="./assets/sky-title.png" alt="Sky Bisht" width="520"/>
 
 </div>
 
+<table>
+<tr>
+<td valign="middle" width="62%">
 
-## things i build with
+## 🏆 4× Hackathon Winner
 
-<div align="center">
+## ✨ Claude Code Maxxer
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+### 🍵 Building with AI, APIs & questionable amounts of matcha
 
-</div>
+### 🎓 UW Informatics
 
----
+</td>
+<td align="center" width="38%">
 
-## contribution snake 🐍
+<img src="./assets/sky-trophy.png" alt="Pixel Sky holding a trophy" width="280"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skylynxf1/skylynxf1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### build → break → ask claude → build again
+## ✦ things i build with ✦
+
+![Python](https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-11111b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-11111b?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-11111b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-11111b?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Supabase](https://img.shields.io/badge/Supabase-11111b?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-11111b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![AWS](https://img.shields.io/badge/AWS-11111b?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-11111b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Claude](https://img.shields.io/badge/Claude-11111b?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 </div>
 
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="./assets/sky-coding.png" alt="Pixel Sky coding" width="260"/>
+</td>
+<td align="center" width="50%">
+<img src="./assets/sky-matcha.png" alt="Pixel Sky drinking matcha" width="290"/>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🐍 contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skylynxf1/skylynxf1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skylynxf1/skylynxf1/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/skylynxf1/skylynxf1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
