@@ -1,31 +1,4 @@
-<div align="center">
 
-<img src="./assets/sky-title.png" alt="Sky Bisht" width="520"/>
-
-</div>
-
-<table>
-<tr>
-<td valign="middle" width="62%">
-
-## 🏆 4× Hackathon Winner
-
-## ✨ Claude Code Maxxer
-
-### 🍵 Building with AI, APIs & questionable amounts of matcha
-
-### 🎓 UW Informatics
-
-</td>
-<td align="center" width="38%">
-
-<img src="./assets/sky-trophy.png" alt="Pixel Sky holding a trophy" width="280"/>
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
@@ -43,17 +16,6 @@
 ![Claude](https://img.shields.io/badge/Claude-11111b?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 </div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="./assets/sky-coding.png" alt="Pixel Sky coding" width="260"/>
-</td>
-<td align="center" width="50%">
-<img src="./assets/sky-matcha.png" alt="Pixel Sky drinking matcha" width="290"/>
-</td>
-</tr>
-</table>
 
 ---
 
